@@ -1,0 +1,81 @@
+
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    background-color: red;
+    /* font-style: oblique; */
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.flex2{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    font-size: 35px;
+}
+/* button{
+    font-size: 30px;
+    padding: 15px;
+    border-radius:25px;
+} */
+.main1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+.name{
+    width: 300px;
+    
+}
+.main{
+    background-color: azure;
+    margin: 30px;
+}
+.contact{
+    margin: 25px;
+    font-size: 35px;
+    color: red;
+}
+.add1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+label{
+    font-size: 30px;
+}
+input{
+    width: 200px;
+    padding: 15px;
+    border-radius: 25px;
+    background-color: rgb(208, 185, 228);
+}
+input:hover{
+    background-color: aliceblue;
+}
+.add2{
+    margin: 30px;
+    display: flex;
+    justify-content: right;
+}
+.btn{
+    font-size: 30px;
+    padding: 15px;
+    border-radius:25px;
+}
+.btn1{
+    font-size: 25px;
+    padding: 10px;
+    border-radius:25px;
+    width: 250px;
+}
+.btn2{
+    font-size: 25px;
+    padding: 10px;
+    border-radius:25px;
+    width: 250px;
+    margin-left: 25px;
+}
